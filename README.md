@@ -1,6 +1,6 @@
 # ATM-Simulator
-Application needed:
-1)Netbeans : https://netbeans.org/images_www/v6/download/community/8.2/
+Application needed
+1)Netbeans : https://netbeans.org/images_www/v6/download/community/8.2/ 
 2)MySQL : https://dev.mysql.com/downloads/installer/
 
 Install and Run the project
